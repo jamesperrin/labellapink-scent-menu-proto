@@ -62,7 +62,7 @@
 
 							$_html += '<ul id="scents" class="list-inline2">';
 							$_html += '<li class="scentname">' + $_scent.attr('scentname') + '</li>';
-							$_html += '<li class="picture"><img src="http://www.labellapink.com/' + $_scent.find('picture').text() + '" alt="LaBellaPink ' + $_scent.attr('scentname') + ' scent" title="LaBellaPink scent ' + $_scent.attr('scentname') + '"/></li><li class="description">' + $_scent.find('description').text() + '</li>';
+							$_html += '<li class="picture"><img src="' + $_scent.find('picture').text() + '" alt="LaBellaPink ' + $_scent.attr('scentname') + ' scent" title="LaBellaPink scent ' + $_scent.attr('scentname') + '"/></li><li class="description">' + $_scent.find('description').text() + '</li>';
 							$_html += '</ul>'
 
 							$('#ScentList').append($_html);
@@ -93,7 +93,7 @@
 								if ($(this).text() == myCategory) {
 									$_html += '<ul id="scents" class="list-inline2">';
 									$_html += '<li class="scentname">' + $_scent.attr('scentname') + '</li>';
-									$_html += '<li class="picture"><img src="http://www.labellapink.com/' + $_scent.find('picture').text() + '" alt="LaBellaPink ' + $_scent.attr('scentname') + ' scent" title="LaBellaPink scent ' + $_scent.attr('scentname') + '"/></li><li class="description">' + $_scent.find('description').text() + '</li>';
+									$_html += '<li class="picture"><img src="' + $_scent.find('picture').text() + '" alt="LaBellaPink ' + $_scent.attr('scentname') + ' scent" title="LaBellaPink scent ' + $_scent.attr('scentname') + '"/></li><li class="description">' + $_scent.find('description').text() + '</li>';
 									$_html += '</ul>'
 								} //End
 							}); // Categories find
