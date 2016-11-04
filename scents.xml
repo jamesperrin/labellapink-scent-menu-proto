@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<scents>
+	<scent scentname="A Marshmallow Whirled">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+			<category>Gourmand</category>
+			<category>Kids</category>
+			<category>Men</category>
+		</categories>
+		<description>
+		Exclusive. The fluffiest marshmallows are mixed with glistening snowflakes, and piled high with fluffy whipped cream, all sprinkled onto lush Evergreen tree. Snowy, yummy, and clean.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/a-marshmallow-whirled.png</picture>
+	</scent>
+	
+  <scent scentname="Alluring Sugar Bubbles">
+		<categories>
+      <category>Flirty &#038; Romantic</category>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+			Super alluring! Juicy, ripe fruit is candy-coated with vanilla sugar.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/alluring-sugar-bubbles.png</picture>
+	</scent>
+  
+	<scent scentname="Barber Shoppe">
+		<categories>
+			<category>Men</category>
+		</categories>
+		<description>Masculine and fresh. Vibrant Bergamot and fresh green notes, are complimented by earthy  Oakmoss and white patchouli.</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/BarberShoppe.png</picture>
+	</scent>
+
+	<scent scentname="Bare Pear">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+			<category>Kids</category>
+		</categories>
+		<description>The irresistible goodness of crisp pears; ripe, delicious, and juicy.</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/BarePear.png</picture>
+	</scent>
+		
+	<scent scentname="Between Heaven and Earth">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>Top notes of citrus and anise on a heart of mild jasmine, honeysuckle, lavandin, warm musk, cedarwood, and fresh air.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/BetweenHeavenAndEarth.png</picture>
+	</scent>
+
+	<scent scentname="Big Yellow Moon">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+			<category>Men</category>
+		</categories>
+		<description>
+			Fresh, warm evening air wafts with lime, French lavender, lily, and light earthiness.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/BigYellowMoon.png</picture>
+	</scent>
+	
+ 	<scent scentname="Bite&#x21; Bite&#x21; Bite&#x21;">
+		<categories>
+      <category>Gourmand</category>
+		</categories>
+		<description>
+			Our tart Genuine Green Apples go gourmand, infused with light, airy pastry, then rolled in warm sugar. 
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/bite-bite-bite.png</picture>
+	</scent>
+  
+	<scent scentname="Black Raspberry Cake">
+		<categories>
+      <category>Gourmand</category>
+		</categories>
+		<description>
+			We've layered our yummy Vanilla Cake with our Frosted Black Raspberry and Vanilla Cream
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/black-raspberry-cake.png</picture>
+	</scent>
+  
+ 	<scent scentname="Blood Orange Cotton Candy">
+		<categories>
+      <category>Gourmand</category>
+		</categories>
+		<description>
+			We wanted only the best orange in our Fresh Cotton Candy, so we spin it with authentic, splashy Blood Orange.  A perfect candy delight.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/blood-orange-cotton-candy.png</picture>
+	</scent>
+  
+	<scent scentname="Buttercream Strawberry Cupcakes (exclusive)">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+			Buttered blond sugar cane, Madagascar vanilla, a drop of maple, and lemon zest, create the best buttercream frosting, smoothed over moist strawberry cupcakes. Mouth-watering!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/SweetSpot.png</picture>
+	</scent>
+	
+	<scent scentname="ButterMint Cupcakes">
+		<categories>
+			<category>Gourmand</category>
+			<category>Kids</category>
+		</categories>
+		<description>
+		Our ButterMint Cupcakes smoothed with our fresh, Buttercream frosting of butter, , blonde sugar cane, Madagascar vanilla, maple, and a base of vanilla extract, then we sprinkle them with the butteriest buttermints.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/ButterMintCupcakes.png</picture>
+	</scent>
+
+	<scent scentname="Cake Me Now!">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+			Exclusive. Our decadent, Cake Me Now, warm vanilla sugar, delectable pink frosting, pink cotton candy, sugared lemon sprinkles, drizzled caramel, raspberry jam, all topped with fluffy, puffy marshmallows.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/cake-me-now.png</picture>
+	</scent>
+  
+ 	<scent scentname="Can't Get Enough">
+		<categories>
+      <category>Flirty &#038; Romantic</category>
+      <category>Gourmand</category>
+		</categories>
+		<description>
+			A sparkling, well-rounded scent with a natural down sweetness, balanced by wafts of Blood Orange, with a powdered sugar finish.  Addictive.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/cant-get-enough.png</picture>
+	</scent>
+  
+	<scent scentname="Champagne">
+		<categories>
+			<category>Cocktails</category>
+			<category>Men</category>
+		</categories>
+		<description>Crisp champagne bubbles are delightfully blended with tangy grapefruit, champagne grapes and deep plum.</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/Champagne.png</picture>
+	</scent>
+	
+	<scent scentname="Champagne Watermelon Fizz">
+		<categories>
+			<category>Cocktails</category>
+		</categories>
+		<description>Fresh-picked, juicy watermelon perfectly sweetens our effervescent champagne, creating a refreshing delight.</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/ChampWatermFizz.png</picture>
+	</scent>
+	
+	<scent scentname="Cherry on Top">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+		Our Cherry on Top is topped with soft, white marshmallows, and sugared deep, red cherries.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/CherryOnTop.png</picture>
+	</scent>
+	
+	<scent scentname="Chivalry">
+		<categories>
+			<category>Men</category>
+		</categories>
+		<description>Masculine spice and lavender combined with citrus and warm cedar wood. We think you'll like it even better than Drakkar Noir.</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/Chivalry.png</picture>
+	</scent>
+	
+	<scent scentname="Confetti">
+		<categories>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+		Frozen mango dusted with pink sugar, raspberry sorbet, champagne bubbles, freesia and light cashmere musk</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/Confetti.png</picture>
+	</scent>
+	
+	<scent scentname="Cotton Candy">
+		<categories>
+			<category>Gourmand</category>
+			<category>Kids</category>
+		</categories>
+		<description>A Best Seller...Authentic and freshly-spun pink Cotton Candy, just like the colorful, sweet treat at the fair!</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/CottonCandy.png</picture>
+	</scent>
+	
+	<scent scentname="Cotton Candy and Sugar Cookies">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>Our fresh cotton Candy goes for a spin with our warm, buttery Sugar Cookies.</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/cotton-candy-sugar-cookies.png</picture>
+	</scent>
+	
+	<scent scentname="Fresh Pear Funnel Cakes">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+			Sweet, warm funnel cake pastry made of buttery cream and milky caramelized sugar, sprinkled with confectioner's sugar, topped with freshly-baked candied pears.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/FreshPearFunnelCakes.png</picture>
+	</scent>
+  
+  <scent scentname="Frosted Black Raspberry and Vanilla Cream">
+		<categories>
+      <category>Flirty &#038; Romantic</category>
+			<category>Fresh &#038; Spa</category>
+      <category>Gourmand</category>
+		</categories>
+		<description>
+			Ripe, sugared Black Raspberries marry with velvety, fresh vanilla cream. Miss this fragrance? Ours is better.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/frosted-black-raspberry-and-vanilla-cream.png</picture>
+	</scent>
+  
+	<scent scentname="Frosted Fruit Cupcakes">
+		<categories>
+			<category>Gourmand</category>
+			<category>Kids</category>
+			<category>Men</category>
+		</categories>
+		<description>
+		Frosted Fruit Cupcakesare moist with juicy oranges and dripping peaches, then smoothed with our delicious Buttercream frosting of butter, blonde sugar cane, Madagascar vanilla, maple, and a base of vanilla extract.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/FrostedFruitCupcakes.jpg</picture>
+	</scent>
+  
+	<scent scentname="Genuine Green Apple">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			Tart peel gives way to fresh sweetness of crisp apple. Super juicy!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/GenuineGreenApple.jpg</picture>
+	</scent>
+	
+	<scent scentname="Glad All Over">
+		<categories>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+		An amazingly fresh and sophisticated blend of ruby cassis, ripe pineapple, sweet rose blossoms and dewy fresh air.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/GladAllOver.png</picture>
+	</scent>
+
+	<scent scentname="Green Apple Gumballs">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+			True, tart green apple meets swfeet gumballs, right from the gumball machine.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/GreenAppleBubbleGum.png</picture>
+	</scent>
+  
+  <scent scentname="Holiday Cheer">
+		<categories>
+      <category>Cocktails</category>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			Splashy and sparkling. We've rounded out our cranberries tartness by frosting them with white sugar. Bright, clean, and festive, even for the everyday celebration.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/holiday-cheer.png</picture>
+	</scent>
+  
+ 	<scent scentname="Hot Buttered Rum">
+		<categories>
+      <category>Cocktails</category>
+      <category>Gourmand</category>
+			<category>Men</category>
+		</categories>
+		<description>
+			Buttery, warm perfection. Simmered rum, swirled with lightly salted butter, topped with fresh cool whipped cream, a sprinkle of nutmeg, a sweet dash of toasted coconut with slight billows of vanilla.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/hot-buttred-rum.png</picture>
+	</scent>
+	
+  <scent scentname="I Heart Pink">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+			<category>Kids</category>
+		</categories>
+		<description>
+			It's everything you love about "Pink", only better.  Neroli and peony complemented with notes of violet and juniper berries.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/i-heart-pink.png</picture>
+	</scent>
+  
+	<scent scentname="In Mint Condition">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+			<category>Men</category>
+		</categories>
+		<description>
+		Peppermint shavings, clean, authentic, and refreshing.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/InMintCondition.png</picture>
+	</scent>
+
+	<scent scentname="Italian Lemon Ice">
+		<categories>
+			<category>Cocktails</category>
+		</categories>
+		<description>
+			Fragrant and juicy lemons, right from the tree, blended into our frozen, slightly sweet treat. Super refreshing!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/ItalianLemonIce.png</picture>
+	</scent>
+	
+	<scent scentname="Juicy Gumballs">
+		<categories>
+			<category>Kids</category>
+		</categories>
+		<description>
+			Classic! Straight from the gumball machine.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/JuicyGumballs.png</picture>
+	</scent>
+	
+	<scent scentname="La Bella Pink (signature scent, exclusive)">
+		<categories>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+			Warm candy essence, slight jasmine note, fresh vanilla bean, rich caramel, hint of musk, and soothing cream. 
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/LaBellaPink.png</picture>
+	</scent>
+	
+	<scent scentname="Lavender Lemonade">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			You can't get more fresh then lavender or more clean than lemon. Splash them together, and Ahhh!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/LavenderLemonade.png</picture>
+	</scent>
+	
+	<scent scentname="Long Winter's Nap">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			The freshness of new-fallen snow, and mild notes of lavender and billows of vanilla.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/LongWintersNap.png</picture>
+	</scent>	
+
+	<scent scentname="Macchiato Caffe Dolce">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>Authentic dark roast coffee...infused with steamed soy milk, and the slightest hint of vanilla.</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/MacchiatoCaffeDolce.png</picture>
+	</scent>
+  
+   	<scent scentname="Marshmallows!">
+		<categories>
+      <category>Gourmand</category>
+      <category>Kids</category>
+		</categories>
+		<description>
+			Our own marshmallow scent. Fluffy, powdered sugar, sweet goodness. There's nothing like marshmallows.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/marshmallows.png</picture>
+	</scent>
+	
+	<scent scentname="Opposites Attract">
+		<categories>
+			<category>Cocktails</category>
+		</categories>
+		<description>
+			Crisp, champagne bubbles are delightfully blended with sugared berries, tangy grapefruit, candied champagne grapes, and deep plum.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/OppositesAttract.png</picture>
+	</scent>
+	
+	<scent scentname="Our Pink Sugar">
+		<categories>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+		A fruity whirl of cotton candy, lemon drops, deep caramel, and raspberry jam, with a dry down base.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/PinkSugar.png</picture>
+	</scent>
+  
+	<scent scentname="Our Secret Wonderland">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			Luscious Strawberry, Wild Goji Berries, Ripe Raspberry, Gardenia Petals, Frosted Jasmine, Peach Nectar, White Amber, Coconut Musk, Creamy Vanilla.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/OurSecretWonderland.png</picture>
+	</scent>
+	
+	<scent scentname="Pear-A-Dice">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			Freshly diced, juicy pear and chunks of island banana whirled into a smoothie, and topped with shredded coconut. A nectar of tropical delights!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/pear-a-dice.jpg</picture>
+	</scent>
+	
+	<scent scentname="Pear Cotton Candy">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+			Fresh-from-the-tree pears, perfectly accompany sweet spun cotton candy.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/PearCottonCandy.png</picture>
+	</scent>
+	
+	<scent scentname="Pink Garter">
+		<categories>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+			An alluring blend of sweet citrus, jasmine, water lily, sweet pea and white orchid.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/PinkGarter.png</picture>
+	</scent>
+	
+	<scent scentname="Pink Lemonade">
+		<categories>
+			<category>Flirty &#038; Romantic</category>
+			<category>Fresh &#38; Spa</category>
+			<category>Kids</category>
+		</categories>
+		<description>
+			Sweet and tart lemonade made from juicy, sugared pink lemons, and stirred with our bright Pink Sugar.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/PinkLemonade.png</picture>
+	</scent>
+	
+	<scent scentname="Pink Sugar Champagne">
+		<categories>
+			<category>Cocktails</category>
+		</categories>
+		<description>
+			Sparkling pink bubbles of crisp champagne blended with tangy grapefruit, champagne grapes, deep plum, and a rim of glistening pink sugar.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/PinkSugarChampagne.png</picture>
+	</scent>
+  
+ 	<scent scentname="Pretty Please">
+		<categories>
+      <category>Gourmand</category>
+		</categories>
+		<description>
+			Super alluring. The perfect balance of pink sugared berries, warm spun sugar, bright, natural cherry, hints of vanilla, and a beautiful fresh finish.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/pretty-please.png</picture>
+	</scent>
+
+ 	<scent scentname="Razz and Rum">
+		<categories>
+      <category>Cocktails</category>
+      <category>Flirty &#038; Romantic</category>
+      <category>Gourmand</category>
+     </categories>
+		<description>
+			Warm, buttery down gives way to a deep berry middle, while fresh caramel is completed by a slightly salted waft of vanilla.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/razz-rum.png</picture>
+	</scent>
+  
+	<scent scentname="Refreshing Lime Mint">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+			<category>Men</category>
+		</categories>
+		<description>
+			Fresh, clean fragrance of zesty lime and clean mint.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/RefreshingLimeMint.png</picture>
+	</scent>
+	
+	<scent scentname="Ruby Red Pomegranates">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			Juicy, bright pomegranate blended with hints of peach, strawberry and just a drop orange.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/RubyRed2.png</picture>
+	</scent>
+	
+	<scent scentname="Secret Little Things">
+		<categories>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+			Feminine fruit and floral blend of osmanthus, apple and water lily, middle notes of honeysuckle, jasmine, and lotus; base notes of iris, musk, and cashmere wood.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/SecretLittleThings.png</picture>
+	</scent>
+	
+	<scent scentname="Sincerely Strawberry">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+			<category>Kids</category>
+		</categories>
+		<description>
+			Juicy, authentic, red strawberries, straight from the vine.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/StrictlyStrawberries.png</picture>
+	</scent>
+
+	<scent scentname="Sprinkled Pink Sugar Cookies">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+			Buttery sugar cookies warm from the oven, sprinkled with the best thing that ever happened to them; pink sugar!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/SprinkledPinkSugarCookies.png</picture>
+	</scent>
+	
+	<scent scentname="Sugared Pink Marshmallows">
+		<categories>
+			<category>Gourmand</category>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+			We've whipped our yummy Pink Sugar into huge, puffy, fluffy marshmallows. De-Lish!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/SugaredPinkMarshmallows.png</picture>
+	</scent>
+	
+	<scent scentname="Sugared Pink Pears">
+		<categories>
+			<category>Gourmand</category>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+			Our Bare Pears couldn't resist taking a dip into our Pink Sugar. The result is fresh and juicy!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/SugaredPinkPears.png</picture>
+	</scent>
+	
+	<scent scentname="Sunflowers">
+		<categories>
+			<category>Flirty &#038; Romantic</category>
+		</categories>
+		<description>
+      You can't help but smile with this sunny, happy, fragrance.  Fresh air wafts with light floral notes.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/Sunflower.jpg</picture>
+	</scent>
+	
+	<scent scentname="Sweet On You">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+		A Best Seller...Warm funnel cake pastry made of buttery cream, and milky caramelized sugar, sprinkled with confectioner&#039;s sugar, surrounded by our freshly-spun cotton candy, all topped with fluffy whipped cream.
+	</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/SweetOnYou.png</picture>
+	</scent>
+	
+	<scent scentname="Sweet On You with Strawberries">
+		<categories>
+			<category>Gourmand</category>
+			<category>Kids</category>
+		</categories>
+		<description>
+			Our Sweet on You confection, topped with our juicy Sincerely Strawberries. Super delicious!
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/sweet-on-you-with-strawberries.png</picture>
+	</scent>
+	
+	<scent scentname="Sweet Pink Grapefruit (EO)">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			Tangy, fresh pink grapefruit with sweet valencia orange, mouth-watering clementine, and the softest of florals.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/SweetPinkPrapefruit.png</picture>
+	</scent>
+  
+ 	<scent scentname="Totally Into You">
+		<categories>
+      <category>Flirty &#038; Romantic</category>
+      <category>Gourmand</category>
+		</categories>
+		<description>
+			Authentic peaches are infused into puffy, fluffy, fresh marshmallows.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/totally-into-you.png</picture>
+	</scent>
+	
+	<scent scentname="True Watermelon">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			Authentic watermelon, juicy and fresh.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/TrueWatermelon.png</picture>
+	</scent>
+	
+	<scent scentname="Ultimate Vanilla Sugar Cake">
+		<categories>
+			<category>Gourmand</category>
+		</categories>
+		<description>
+			Decadent, moist vanilla-infused white cake, topped with creamy vanilla bean frosting, and sprinkled with warm vanilla sugar.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/UltimateVanillaSugCake.png</picture>
+	</scent>
+ 
+ 	<scent scentname="Very Cherry Bomb">
+		<categories>
+      <category>Flirty &#038; Romantic</category>
+      <category>Gourmand</category>
+		</categories>
+		<description>
+			Fresh, ripe, sweet, and authentic for the true lover of black cherries. Hint of almond and orange, with slight cinnamon finish.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/very-cherry-bomb.png</picture>
+	</scent>
+	
+	<scent scentname="Walking On Sunshine">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			A delicate blend of orange nectar, star jasmine, and violet.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/walking-on-sunshine.jpg</picture>
+	</scent>
+  
+	<scent scentname="White Tea">
+		<categories>
+			<category>Fresh &#038; Spa</category>
+		</categories>
+		<description>
+			The essence of soothing White Tea brings a fresh spa scent.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/white-tea.png</picture>
+	</scent>
+  
+	<scent scentname="With a Twist">
+		<categories>
+			<category>Cocktails</category>
+		</categories>
+		<description>
+			Our luscious daiquiri is a refreshing blend of crisp bubbles, strawberries, lime zest, and a hint of fresh vanilla for balance.
+		</description>
+		<picture>http://www.labellapink.com/api/scent_menu/images/WithaTwist.png</picture>
+	</scent>
+</scents>

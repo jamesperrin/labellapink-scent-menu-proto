@@ -9,7 +9,7 @@
 			//~~~~~~~~~~~~~~~~~~~~~~
 			// Declared variables
 			//~~~~~~~~~~~~~~~~~~~~~~
-			var xmlData = 'http://www.labellapink.com/api/scent_menu/scents.xml';
+			var xmlData = 'scents.xml';
 			var catArray = new Array();
 			var myCategory = '';
 
